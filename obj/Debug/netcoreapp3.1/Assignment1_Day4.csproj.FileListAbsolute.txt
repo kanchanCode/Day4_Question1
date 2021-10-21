@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Assignment1_Day4\Assignment1_Day4\obj\Debug\netcoreapp3.1\Assignment1_Day4.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Assignment1_Day4\Assignment1_Day4\obj\Debug\netcoreapp3.1\Assignment1_Day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Assignment1_Day4\Assignment1_Day4\obj\Debug\netcoreapp3.1\Assignment1_Day4.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Assignment1_Day4\Assignment1_Day4\obj\Debug\netcoreapp3.1\Assignment1_Day4.AssemblyInfo.cs
+C:\Users\hp\source\repos\Assignment1_Day4\Assignment1_Day4\obj\Debug\netcoreapp3.1\Assignment1_Day4.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Assignment1_Day4\Assignment1_Day4\bin\Debug\netcoreapp3.1\Assignment1_Day4.exe
+C:\Users\hp\source\repos\Assignment1_Day4\Assignment1_Day4\bin\Debug\netcoreapp3.1\Assignment1_Day4.deps.json
+C:\Users\hp\source\repos\Assignment1_Day4\Assignment1_Day4\bin\Debug\netcoreapp3.1\Assignment1_Day4.runtimeconfig.json
+C:\Users\hp\source\repos\Assignment1_Day4\Assignment1_Day4\bin\Debug\netcoreapp3.1\Assignment1_Day4.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Assignment1_Day4\Assignment1_Day4\bin\Debug\netcoreapp3.1\Assignment1_Day4.dll
+C:\Users\hp\source\repos\Assignment1_Day4\Assignment1_Day4\bin\Debug\netcoreapp3.1\Assignment1_Day4.pdb
+C:\Users\hp\source\repos\Assignment1_Day4\Assignment1_Day4\obj\Debug\netcoreapp3.1\Assignment1_Day4.dll
+C:\Users\hp\source\repos\Assignment1_Day4\Assignment1_Day4\obj\Debug\netcoreapp3.1\Assignment1_Day4.pdb
+C:\Users\hp\source\repos\Assignment1_Day4\Assignment1_Day4\obj\Debug\netcoreapp3.1\Assignment1_Day4.genruntimeconfig.cache
