@@ -69,6 +69,5 @@ namespace EmpWagebuilderObject
         {
             return "Total Emp Wage for Company " + this.company + " is :" + this.totalEmpWage;
         }
-
     }
 }
