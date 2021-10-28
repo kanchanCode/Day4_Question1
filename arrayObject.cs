@@ -4,6 +4,7 @@ using System.Text;
 
 namespace EmpWagebuilderObject
 {
+    
     class arrayObject
     {
         static void Main(string[] args)
