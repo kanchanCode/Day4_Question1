@@ -130,9 +130,6 @@ namespace EmpWagebuilderObject
         {
             return "Total Emp Wage for " + this.company + " is: " + this.totalEmpWage;
         }
-
-
-
     }
 }
 
